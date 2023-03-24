@@ -1,0 +1,182 @@
+D:\laptrinh\chuong_6\bai_46\Picturebox\bin\Debug\Picturebox.exe.config
+D:\laptrinh\chuong_6\bai_46\Picturebox\bin\Debug\Picturebox.exe
+D:\laptrinh\chuong_6\bai_46\Picturebox\bin\Debug\Picturebox.pdb
+D:\laptrinh\chuong_6\bai_46\Picturebox\obj\Debug\Picturebox.csproj.AssemblyReference.cache
+D:\laptrinh\chuong_6\bai_46\Picturebox\obj\Debug\Picturebox.Form1.resources
+D:\laptrinh\chuong_6\bai_46\Picturebox\obj\Debug\Picturebox.Properties.Resources.resources
+D:\laptrinh\chuong_6\bai_46\Picturebox\obj\Debug\Picturebox.csproj.GenerateResource.cache
+D:\laptrinh\chuong_6\bai_46\Picturebox\obj\Debug\Picturebox.csproj.CoreCompileInputs.cache
+D:\laptrinh\chuong_6\bai_46\Picturebox\obj\Debug\Picturebox.exe
+D:\laptrinh\chuong_6\bai_46\Picturebox\obj\Debug\Picturebox.pdb
+D:\laptrinh\chuong_6\bai_46\Picturebox\obj\Debug\Picturebox.FrmLogin.resources
+D:\laptrinh\chuong_6\bai_46\Picturebox\obj\Debug\Picturebox.FrmCB1.resources
+D:\Picturebox\obj\Debug\Picturebox.csproj.AssemblyReference.cache
+D:\Picturebox\obj\Debug\Picturebox.FrmLogin.resources
+D:\Picturebox\obj\Debug\Picturebox.Properties.Resources.resources
+D:\Picturebox\obj\Debug\Picturebox.csproj.GenerateResource.cache
+D:\Picturebox\obj\Debug\Picturebox.csproj.CoreCompileInputs.cache
+D:\Picturebox\obj\Debug\Picturebox.exe
+D:\Picturebox\obj\Debug\Picturebox.pdb
+D:\Picturebox\bin\Debug\Picturebox.exe.config
+D:\Picturebox\bin\Debug\Picturebox.exe
+D:\Picturebox\bin\Debug\Picturebox.pdb
+D:\Picturebox\obj\Debug\Picturebox.FrmMenu.resources
+D:\Picturebox\obj\Debug\Picturebox.FrmCanhBao.resources
+D:\DSC_SCADA\bin\Debug\Picturebox.exe.config
+D:\DSC_SCADA\bin\Debug\Picturebox.exe
+D:\DSC_SCADA\bin\Debug\Picturebox.pdb
+D:\DSC_SCADA\obj\Debug\Picturebox.csproj.AssemblyReference.cache
+D:\DSC_SCADA\obj\Debug\Picturebox.FrmLogin.resources
+D:\DSC_SCADA\obj\Debug\Picturebox.FrmMenu.resources
+D:\DSC_SCADA\obj\Debug\Picturebox.Properties.Resources.resources
+D:\DSC_SCADA\obj\Debug\Picturebox.csproj.GenerateResource.cache
+D:\DSC_SCADA\obj\Debug\Picturebox.csproj.CoreCompileInputs.cache
+D:\DSC_SCADA\obj\Debug\Picturebox.exe
+D:\DSC_SCADA\obj\Debug\Picturebox.pdb
+D:\DSC_SCADA\obj\Debug\Picturebox.FrmDuLieu.resources
+D:\DSC_SCADA\obj\Debug\Picturebox.FrmMAC.resources
+D:\DSC_SCADA\obj\Debug\Picturebox.FrmTime.resources
+D:\DSC_SCADA\obj\Debug\Picturebox.FrmWarning.resources
+D:\DSC_SCADA\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\DSC_SCADA\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\DSC_SCADA\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\DSC_SCADA\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\DSC_SCADA\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\DSC_SCADA\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\DSC_SCADA\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\DSC_SCADA\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\DSC_SCADA\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\DSC_SCADA\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\DSC_SCADA\bin\Debug\EnvDTE.dll
+D:\DSC_SCADA\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\DSC_SCADA\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\DSC_SCADA\bin\Debug\stdole.dll
+D:\DSC_SCADA\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\DSC_SCADA\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\DSC_SCADA\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\DSC_SCADA\bin\Debug\Microsoft.MSXML.dll
+D:\DSC_SCADA\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\DSC_SCADA\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\DSC_SCADA\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\DSC_SCADA\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\DSC_SCADA\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\DSC_SCADA\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\DSC_SCADA\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\DSC_SCADA\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\DSC_SCADA\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\DSC_SCADA\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\DSC_SCADA\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DSC_SCADA\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DSC_SCADA\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DSC_SCADA\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DSC_SCADA\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DSC_SCADA\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DSC_SCADA\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DSC_SCADA\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DSC_SCADA\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DSC_SCADA\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DSC_SCADA\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\DSC_SCADA\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\DSC_SCADA\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\DSC_SCADA\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\DSC_SCADA\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\DSC_SCADA\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\DSC_SCADA\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\DSC_SCADA\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\DSC_SCADA\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\DSC_SCADA\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\DSC_SCADA\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DSC_SCADA\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DSC_SCADA\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DSC_SCADA\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DSC_SCADA\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DSC_SCADA\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DSC_SCADA\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DSC_SCADA\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DSC_SCADA\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DSC_SCADA\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DSC_SCADA\obj\Debug\Picturebox.FrmPrint.resources
+D:\DSC_SCADA\obj\Debug\RdlCompile.cache
+D:\DSC_SCADA\obj\Debug\RdlCompile.compiled
+D:\DSC_SCADA\obj\Debug\Picturebox.csproj.CopyComplete
+D:\DSC_SCADA\obj\Debug\Picturebox.FrmAccount.resources
+D:\Tai_lieu\OneDrive - Hanoi University of Science and Technology\Desktop\demo3\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Tai_lieu\OneDrive - Hanoi University of Science and Technology\Desktop\demo3\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Tai_lieu\OneDrive - Hanoi University of Science and Technology\Desktop\demo3\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Tai_lieu\OneDrive - Hanoi University of Science and Technology\Desktop\demo3\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Tai_lieu\OneDrive - Hanoi University of Science and Technology\Desktop\demo3\bin\Debug\Picturebox.exe.config
+D:\Tai_lieu\OneDrive - Hanoi University of Science and Technology\Desktop\demo3\bin\Debug\Picturebox.exe
+D:\Tai_lieu\OneDrive - Hanoi University of Science and Technology\Desktop\demo3\bin\Debug\Picturebox.pdb
+D:\Tai_lieu\OneDrive - Hanoi University of Science and Technology\Desktop\demo3\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Tai_lieu\OneDrive - Hanoi University of Science and Technology\Desktop\demo3\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Tai_lieu\OneDrive - Hanoi University of Science and Technology\Desktop\demo3\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Tai_lieu\OneDrive - Hanoi University of Science and Technology\Desktop\demo3\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Tai_lieu\OneDrive - Hanoi University of Science and Technology\Desktop\demo3\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Tai_lieu\OneDrive - Hanoi University of Science and Technology\Desktop\demo3\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Tai_lieu\OneDrive - Hanoi University of Science and Technology\Desktop\demo3\bin\Debug\EnvDTE.dll
+D:\Tai_lieu\OneDrive - Hanoi University of Science and Technology\Desktop\demo3\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Tai_lieu\OneDrive - Hanoi University of Science and Technology\Desktop\demo3\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Tai_lieu\OneDrive - Hanoi University of Science and Technology\Desktop\demo3\bin\Debug\stdole.dll
+D:\Tai_lieu\OneDrive - Hanoi University of Science and Technology\Desktop\demo3\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Tai_lieu\OneDrive - Hanoi University of Science and Technology\Desktop\demo3\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Tai_lieu\OneDrive - Hanoi University of Science and Technology\Desktop\demo3\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Tai_lieu\OneDrive - Hanoi University of Science and Technology\Desktop\demo3\bin\Debug\Microsoft.MSXML.dll
+D:\Tai_lieu\OneDrive - Hanoi University of Science and Technology\Desktop\demo3\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Tai_lieu\OneDrive - Hanoi University of Science and Technology\Desktop\demo3\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Tai_lieu\OneDrive - Hanoi University of Science and Technology\Desktop\demo3\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Tai_lieu\OneDrive - Hanoi University of Science and Technology\Desktop\demo3\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Tai_lieu\OneDrive - Hanoi University of Science and Technology\Desktop\demo3\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Tai_lieu\OneDrive - Hanoi University of Science and Technology\Desktop\demo3\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Tai_lieu\OneDrive - Hanoi University of Science and Technology\Desktop\demo3\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Tai_lieu\OneDrive - Hanoi University of Science and Technology\Desktop\demo3\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Tai_lieu\OneDrive - Hanoi University of Science and Technology\Desktop\demo3\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Tai_lieu\OneDrive - Hanoi University of Science and Technology\Desktop\demo3\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Tai_lieu\OneDrive - Hanoi University of Science and Technology\Desktop\demo3\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Tai_lieu\OneDrive - Hanoi University of Science and Technology\Desktop\demo3\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Tai_lieu\OneDrive - Hanoi University of Science and Technology\Desktop\demo3\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Tai_lieu\OneDrive - Hanoi University of Science and Technology\Desktop\demo3\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Tai_lieu\OneDrive - Hanoi University of Science and Technology\Desktop\demo3\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Tai_lieu\OneDrive - Hanoi University of Science and Technology\Desktop\demo3\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Tai_lieu\OneDrive - Hanoi University of Science and Technology\Desktop\demo3\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Tai_lieu\OneDrive - Hanoi University of Science and Technology\Desktop\demo3\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Tai_lieu\OneDrive - Hanoi University of Science and Technology\Desktop\demo3\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Tai_lieu\OneDrive - Hanoi University of Science and Technology\Desktop\demo3\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Tai_lieu\OneDrive - Hanoi University of Science and Technology\Desktop\demo3\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Tai_lieu\OneDrive - Hanoi University of Science and Technology\Desktop\demo3\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Tai_lieu\OneDrive - Hanoi University of Science and Technology\Desktop\demo3\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Tai_lieu\OneDrive - Hanoi University of Science and Technology\Desktop\demo3\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Tai_lieu\OneDrive - Hanoi University of Science and Technology\Desktop\demo3\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Tai_lieu\OneDrive - Hanoi University of Science and Technology\Desktop\demo3\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Tai_lieu\OneDrive - Hanoi University of Science and Technology\Desktop\demo3\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Tai_lieu\OneDrive - Hanoi University of Science and Technology\Desktop\demo3\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Tai_lieu\OneDrive - Hanoi University of Science and Technology\Desktop\demo3\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Tai_lieu\OneDrive - Hanoi University of Science and Technology\Desktop\demo3\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Tai_lieu\OneDrive - Hanoi University of Science and Technology\Desktop\demo3\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Tai_lieu\OneDrive - Hanoi University of Science and Technology\Desktop\demo3\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Tai_lieu\OneDrive - Hanoi University of Science and Technology\Desktop\demo3\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Tai_lieu\OneDrive - Hanoi University of Science and Technology\Desktop\demo3\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Tai_lieu\OneDrive - Hanoi University of Science and Technology\Desktop\demo3\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Tai_lieu\OneDrive - Hanoi University of Science and Technology\Desktop\demo3\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Tai_lieu\OneDrive - Hanoi University of Science and Technology\Desktop\demo3\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Tai_lieu\OneDrive - Hanoi University of Science and Technology\Desktop\demo3\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Tai_lieu\OneDrive - Hanoi University of Science and Technology\Desktop\demo3\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Tai_lieu\OneDrive - Hanoi University of Science and Technology\Desktop\demo3\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Tai_lieu\OneDrive - Hanoi University of Science and Technology\Desktop\demo3\obj\Debug\Picturebox.csproj.AssemblyReference.cache
+D:\Tai_lieu\OneDrive - Hanoi University of Science and Technology\Desktop\demo3\obj\Debug\Picturebox.FrmAccount.resources
+D:\Tai_lieu\OneDrive - Hanoi University of Science and Technology\Desktop\demo3\obj\Debug\Picturebox.FrmDuLieu.resources
+D:\Tai_lieu\OneDrive - Hanoi University of Science and Technology\Desktop\demo3\obj\Debug\Picturebox.FrmLogin.resources
+D:\Tai_lieu\OneDrive - Hanoi University of Science and Technology\Desktop\demo3\obj\Debug\Picturebox.FrmMAC.resources
+D:\Tai_lieu\OneDrive - Hanoi University of Science and Technology\Desktop\demo3\obj\Debug\Picturebox.FrmMenu.resources
+D:\Tai_lieu\OneDrive - Hanoi University of Science and Technology\Desktop\demo3\obj\Debug\Picturebox.FrmPrint.resources
+D:\Tai_lieu\OneDrive - Hanoi University of Science and Technology\Desktop\demo3\obj\Debug\Picturebox.FrmTime.resources
+D:\Tai_lieu\OneDrive - Hanoi University of Science and Technology\Desktop\demo3\obj\Debug\Picturebox.FrmWarning.resources
+D:\Tai_lieu\OneDrive - Hanoi University of Science and Technology\Desktop\demo3\obj\Debug\Picturebox.Properties.Resources.resources
+D:\Tai_lieu\OneDrive - Hanoi University of Science and Technology\Desktop\demo3\obj\Debug\Picturebox.csproj.GenerateResource.cache
+D:\Tai_lieu\OneDrive - Hanoi University of Science and Technology\Desktop\demo3\obj\Debug\RdlCompile.cache
+D:\Tai_lieu\OneDrive - Hanoi University of Science and Technology\Desktop\demo3\obj\Debug\RdlCompile.compiled
+D:\Tai_lieu\OneDrive - Hanoi University of Science and Technology\Desktop\demo3\obj\Debug\Picturebox.csproj.CoreCompileInputs.cache
+D:\Tai_lieu\OneDrive - Hanoi University of Science and Technology\Desktop\demo3\obj\Debug\Picturebox.csproj.CopyComplete
+D:\Tai_lieu\OneDrive - Hanoi University of Science and Technology\Desktop\demo3\obj\Debug\Picturebox.exe
+D:\Tai_lieu\OneDrive - Hanoi University of Science and Technology\Desktop\demo3\obj\Debug\Picturebox.pdb
+D:\Tai_lieu\OneDrive - Hanoi University of Science and Technology\Desktop\demo3\obj\Debug\Picturebox.FrmNormal.resources
+D:\Tai_lieu\OneDrive - Hanoi University of Science and Technology\Desktop\demo3\obj\Debug\Picturebox.FrmIn4.resources

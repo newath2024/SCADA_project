@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DSDuLieu" targetNamespace="http://tempuri.org/DSDuLieu.xsd" xmlns:mstns="http://tempuri.org/DSDuLieu.xsd" xmlns="http://tempuri.org/DSDuLieu.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DSDuLieu" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DSDuLieu" msprop:Generator_UserDSName="DSDuLieu">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DuLieu" msprop:Generator_TableClassName="DuLieuDataTable" msprop:Generator_TableVarName="tableDuLieu" msprop:Generator_TablePropName="DuLieu" msprop:Generator_RowDeletingName="DuLieuRowDeleting" msprop:Generator_RowChangingName="DuLieuRowChanging" msprop:Generator_RowEvHandlerName="DuLieuRowChangeEventHandler" msprop:Generator_RowDeletedName="DuLieuRowDeleted" msprop:Generator_UserTableName="DuLieu" msprop:Generator_RowChangedName="DuLieuRowChanged" msprop:Generator_RowEvArgName="DuLieuRowChangeEvent" msprop:Generator_RowClassName="DuLieuRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="ThoiGian" msprop:Generator_ColumnVarNameInTable="columnThoiGian" msprop:Generator_ColumnPropNameInRow="ThoiGian" msprop:Generator_ColumnPropNameInTable="ThoiGianColumn" msprop:Generator_UserColumnName="ThoiGian" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="CaSX" msprop:Generator_ColumnVarNameInTable="columnCaSX" msprop:Generator_ColumnPropNameInRow="CaSX" msprop:Generator_ColumnPropNameInTable="CaSXColumn" msprop:Generator_UserColumnName="CaSX" type="xs:int" minOccurs="0" />
+              <xs:element name="MAC" msprop:Generator_ColumnVarNameInTable="columnMAC" msprop:Generator_ColumnPropNameInRow="MAC" msprop:Generator_ColumnPropNameInTable="MACColumn" msprop:Generator_UserColumnName="MAC" type="xs:string" minOccurs="0" />
+              <xs:element name="TroKhoang" msprop:Generator_ColumnVarNameInTable="columnTroKhoang" msprop:Generator_ColumnPropNameInRow="TroKhoang" msprop:Generator_ColumnPropNameInTable="TroKhoangColumn" msprop:Generator_UserColumnName="TroKhoang" type="xs:int" minOccurs="0" />
+              <xs:element name="CatKho" msprop:Generator_ColumnVarNameInTable="columnCatKho" msprop:Generator_ColumnPropNameInRow="CatKho" msprop:Generator_ColumnPropNameInTable="CatKhoColumn" msprop:Generator_UserColumnName="CatKho" type="xs:int" minOccurs="0" />
+              <xs:element name="PhuGia1" msprop:Generator_ColumnVarNameInTable="columnPhuGia1" msprop:Generator_ColumnPropNameInRow="PhuGia1" msprop:Generator_ColumnPropNameInTable="PhuGia1Column" msprop:Generator_UserColumnName="PhuGia1" type="xs:int" minOccurs="0" />
+              <xs:element name="PhuGia2" msprop:Generator_ColumnVarNameInTable="columnPhuGia2" msprop:Generator_ColumnPropNameInRow="PhuGia2" msprop:Generator_ColumnPropNameInTable="PhuGia2Column" msprop:Generator_UserColumnName="PhuGia2" type="xs:int" minOccurs="0" />
+              <xs:element name="XiMang" msprop:Generator_ColumnVarNameInTable="columnXiMang" msprop:Generator_ColumnPropNameInRow="XiMang" msprop:Generator_ColumnPropNameInTable="XiMangColumn" msprop:Generator_UserColumnName="XiMang" type="xs:int" minOccurs="0" />
+              <xs:element name="MeTron" msprop:Generator_ColumnVarNameInTable="columnMeTron" msprop:Generator_ColumnPropNameInRow="MeTron" msprop:Generator_ColumnPropNameInTable="MeTronColumn" msprop:Generator_UserColumnName="MeTron" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
